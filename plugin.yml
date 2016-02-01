@@ -1,0 +1,10 @@
+name: signTeleport
+main: signTP.MainClass
+version: 1.0
+commands:
+   stp:
+      description: Reload the config file
+      usage: /<command> reload
+      
+      description: Open the coordinate mode \n which can let you see \n the coordinate of the block\n when right clicked
+      usage: /<command> co

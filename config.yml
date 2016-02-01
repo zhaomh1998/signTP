@@ -1,0 +1,46 @@
+# default config.yml
+#signX, Y, Z处分别填写每个木牌的坐标
+signX:
+  - 246
+  - 101
+  - 102
+  
+signY:
+  - 64
+  - 80
+  - 80
+  
+signZ:
+  - 238
+  - 100
+  - 100
+  
+#对应上方每个木牌的世界名称
+
+worldName:
+  - world
+  - world
+  - world
+
+#对应上方每个木牌, 想要传送到的世界名称
+
+tpWorldName:
+  - game1
+  - game2
+  - game3
+  
+#想要传送到世界的X, Y, Z坐标, Y填写-1则传送到该世界出生点
+tpX:
+  - 
+  - 150
+  - 
+
+tpY:
+  - -1
+  - 80
+  - -1
+  
+tpZ:
+  - 
+  - 100
+  - 
